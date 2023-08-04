@@ -1,0 +1,11 @@
+LICENCE.txt
+README.rst
+setup.py
+PriorKnowledgeNeuralODE/__init__.py
+PriorKnowledgeNeuralODE/adaptiveFuncs.py
+PriorKnowledgeNeuralODE/chemicalReaction_ICNAAM.py
+PriorKnowledgeNeuralODE/logPopulation_ICNAAM.py
+PriorKnowledgeNeuralODE.egg-info/PKG-INFO
+PriorKnowledgeNeuralODE.egg-info/SOURCES.txt
+PriorKnowledgeNeuralODE.egg-info/dependency_links.txt
+PriorKnowledgeNeuralODE.egg-info/top_level.txt
