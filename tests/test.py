@@ -1,4 +1,8 @@
 import unittest
 from PriorKnowledgeNeuralODE import adaptiveFuncs
 
-print(1)
+class Test(unittest.TestCase):
+    def passTest(self):
+        print(1)
+
+unittest.main()
