@@ -1,8 +1,11 @@
-import unittest
-from PriorKnowledgeNeuralODE import adaptiveFuncs
+import pytest
 
-class Test(unittest.TestCase):
-    def passTest(self):
-        print(1)
+def test_true():
+    assert True
 
-unittest.main()
+@pytest.mark.slow
+def test_long():
+    assert False
+
+def test_slow():
+    assert False
