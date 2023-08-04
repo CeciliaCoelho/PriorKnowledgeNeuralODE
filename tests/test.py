@@ -1,5 +1,5 @@
 import unittest
-from PriorKnowledgeNeuralODE import adaptiveFuncs
+from PriorKnowledgeNeuralODE.adaptiveFuncs import adaptiveFuncs
 
 class Test(unittest.TestCase):
     def test(self):
