@@ -2,7 +2,7 @@
 
 #### C. Coelho, M. F. P. Costa, and L.L. Ferrás, "A Study on Adaptive Penalty Functions in Neural ODEs for Real Systems Modeling" in Proceedings of the International Conference of Numerical Analysis and Applied Mathematics (ICNAAM-2023) (AIP Conference Proceedings, accepted)
 
-[![License](https://img.shields.io/github/license/lululxvi/deepxde)](https://github.com/lululxvi/deepxde/blob/master/LICENSE) <img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.svg" width="128"/>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.svg" width="128"/>
 
 
 This library provides a torch implementations of 3 adaptive penalty functions that can be used for training NN architectures. To learn more check the [paper](A_Study_on_Adaptive_Penalty_Functions_in_Neural_ODEs.pdf).

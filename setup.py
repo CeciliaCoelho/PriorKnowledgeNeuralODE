@@ -2,9 +2,9 @@ from setuptools import setup
 
 setup(
     name='PriorKnowledgeNeuralODE',
-    version='1.0.2',
+    version='1.0.3',
     description='a compilation of methods to incorporate constraints into Neural ODE models',
-    license='LGPL-2.1',
+    license='MIT',
     packages=['PriorKnowledgeNeuralODE'],
     author='Cecília Coelho',
     author_email='cmartins@cmat.uminho.pt',

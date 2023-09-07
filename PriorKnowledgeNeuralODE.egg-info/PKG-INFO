@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: PriorKnowledgeNeuralODE
-Version: 1.0.2
+Version: 1.0.3
 Summary: a compilation of methods to incorporate constraints into Neural ODE models
 Home-page: https://github.com/CeciliaCoelho/PriorKnowledgeNeuralODE
 Author: Cecília Coelho
 Author-email: cmartins@cmat.uminho.pt
-License: LGPL-2.1
+License: MIT
 Keywords: Neural ODE,Constrained Optimization,Time-series,Neural Networks
 License-File: LICENSE.txt
