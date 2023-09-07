@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: PriorKnowledgeNeuralODE
-Version: 0.0.1
+Version: 0.0.2
 Summary: a compilation of methods to incorporate constraints into Neural ODE models
 Home-page: https://github.com/CeciliaCoelho/PriorKnowledgeNeuralODE
 Author: Cecília Coelho
