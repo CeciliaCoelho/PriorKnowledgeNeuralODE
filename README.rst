@@ -4,7 +4,7 @@ PriorKnowledgeNeuralODE
 C. Coelho, M. F. P. Costa, and L.L. Ferrás, “A Study on Adaptive Penalty Functions in Neural ODEs for Real Systems Modeling” in Proceedings of the International Conference of Numerical Analysis and Applied Mathematics (ICNAAM-2023) (AIP Conference Proceedings, accepted)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-|License|
+|License: MIT|
 
 This library provides a torch implementations of 3 adaptive penalty
 functions that can be used for training NN architectures. To learn more
@@ -235,6 +235,7 @@ citing.
 Neural ODEs for Real Systems Modeling}, author={Coelho, C. and Costa, M.
 F. P. and Ferrás, L. L.}, journal={International Conference of Numerical
 Analysis and Applied Mathematics (accepted)}, year={2023} }
+\``\`
 
-.. |License| image:: https://img.shields.io/github/license/lululxvi/deepxde
-   :target: https://github.com/lululxvi/deepxde/blob/master/LICENSE
+.. |License: MIT| image:: https://img.shields.io/badge/License-MIT-yellow.svg
+   :target: https://opensource.org/licenses/MIT

@@ -1,6 +1,6 @@
 LICENSE.txt
-README
 README.md
+README.rst
 setup.py
 PriorKnowledgeNeuralODE/__init__.py
 PriorKnowledgeNeuralODE/adaptiveFuncs.py
