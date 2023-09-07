@@ -7,8 +7,5 @@ Author: Cecília Coelho
 Author-email: cmartins@cmat.uminho.pt
 License: MIT
 Keywords: Neural ODE,Constrained Optimization,Time-series,Neural Networks
-Platform: UNKNOWN
-License-File: LICENCE.txt
-
-UNKNOWN
-
+Description-Content-Type: README.md
+License-File: LICENSE.txt
