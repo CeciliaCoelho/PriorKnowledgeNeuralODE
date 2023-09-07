@@ -8,12 +8,19 @@
 This library provides a torch implementations of 3 adaptive penalty functions that can be used for training NN architectures. To learn more check the [paper](A_Study_on_Adaptive_Penalty_Functions_in_Neural_ODEs.pdf).
 
 ### Installation
-
-
-
 ```
 pip install PriorKnowledgeNeuralODE
 ```
+
+### Dependencies
+<ol>
+  <li>torchdiffeqq</li>
+  <li>torch</li>
+  <li>pandas</li>
+  <li>numpy</li>
+  <li>math</li>
+  <li>matplotlib</li>
+</ol>
 
 ### Examples
 There are 2 case study examples that use a Neural ODE to model the [World Population Growth](https://www.kaggle.com/datasets/cici118/world-population-growth) and the evolution of a [Chemical Reaction](https://www.kaggle.com/datasets/cici118/synthetic-chemical-reaction) available [here](https://github.com/CeciliaCoelho/PriorKnowledgeNeuralODE/tree/master/examples/selfAdaptivePenalty)
@@ -21,7 +28,7 @@ There are 2 case study examples that use a Neural ODE to model the [World Popula
 ##### Options
 <ol>
   <li>--method :numerical method to solve the ODE, choices=['dopri5', 'adams']</li>
-  <li><--data_size :number of training time steps/li>
+  <li>--data_size :number of training time steps/li>
   <li>--test_data_size :number of testing time steps</li>
   <li>--niters :number of iterations to train the NN</li>
   <li>--test_freq :frequency to compute and print the test metrics</li>
