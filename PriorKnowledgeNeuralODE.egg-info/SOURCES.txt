@@ -1,4 +1,5 @@
 LICENSE.txt
+README
 README.md
 setup.py
 PriorKnowledgeNeuralODE/__init__.py

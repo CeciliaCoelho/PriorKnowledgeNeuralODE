@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='PriorKnowledgeNeuralODE',
-    version='0.1.0',
+    version='0.1.1',
     description='a compilation of methods to incorporate constraints into Neural ODE models',
     license='MIT',
     packages=['PriorKnowledgeNeuralODE'],
