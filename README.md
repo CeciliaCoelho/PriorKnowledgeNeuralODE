@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/github/license/lululxvi/deepxde)](https://github.com/lululxvi/deepxde/blob/master/LICENSE)
 
-This library provides the implementations of 3 adaptive penalty functions that can be used for training NN architectures. 
+This library provides the implementations of 3 adaptive penalty functions that can be used for training NN architectures. To learn more check the [paper](A_Study_on_Adaptive_Penalty_Functions_in_Neural_ODEs.pdf).
 
 If you found this resource useful in your research, please consider citing.
 
