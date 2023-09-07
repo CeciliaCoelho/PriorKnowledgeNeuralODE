@@ -1,0 +1,9 @@
+LICENSE.txt
+README
+setup.py
+PriorKnowledgeNeuralODE/__init__.py
+PriorKnowledgeNeuralODE/adaptiveFuncs.py
+PriorKnowledgeNeuralODE_package.egg-info/PKG-INFO
+PriorKnowledgeNeuralODE_package.egg-info/SOURCES.txt
+PriorKnowledgeNeuralODE_package.egg-info/dependency_links.txt
+PriorKnowledgeNeuralODE_package.egg-info/top_level.txt
